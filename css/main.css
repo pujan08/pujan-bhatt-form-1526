@@ -1,0 +1,340 @@
+ *
+    {
+    font-size: 1rem;
+ 
+    }
+legend
+    {
+    width: auto;
+    font-size: 2rem;
+    border: 1px #DDD solid;
+    padding: 15px;
+    background-color: white;
+    }
+
+    fieldset 
+    {
+    width: 95%;
+    background-color: #F5F5F5;
+    border: 1px #DDD solid;
+    }
+    
+    .wrapper 
+    {
+		width: 95%;
+        margin: 1em auto;   
+	}
+ .name
+    {
+        width:100%;
+        padding-right: 2px;
+    }
+    
+    .mail
+    {
+        width: 100%;
+        padding-left: 2px;
+    }
+    .message
+    {
+        width: 100%;
+        padding-left: 2px;
+    }
+    
+    input#fname
+    {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    
+    input#email
+    {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    
+    textarea#message 
+    {
+    width: 100%;
+    padding: 0px 0px;
+    box-sizing: border-box;
+    border: 1px solid #F5F5F5;
+    border-radius: 4px;
+    }
+
+    input#send
+    {
+    width: 10%;
+    background-color: #6495ED;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    }   
+@media only screen and (min-device-width: 0rem) 
+  and (max-device-width: 25rem)
+{
+   
+    legend
+    {
+    width: auto;
+    font-size: 2rem;
+    border: 1px #DDD solid;
+    padding: 15px;
+    background-color: white;
+    }
+
+    fieldset 
+    {
+    width: 55%;
+    background-color: #F5F5F5;
+    border: 1px #DDD solid;
+    }
+    
+    .wrapper 
+    {
+		width: 65%;
+        margin: 1em auto;   
+	}
+
+    .name
+    {
+        width:100%;
+        padding-right: 2px;
+    }
+    
+    .mail
+    {
+        width: 100%;
+        padding-left: 2px;
+    }
+    .message
+    {
+        width: 100%;
+        padding-left: 2px;
+    }
+    
+    input#fname
+    {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    
+    input#email
+    {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    
+    textarea#message 
+    {
+    width: 100%;
+    padding: 0px 0px;
+    box-sizing: border-box;
+    border: 1px solid #F5F5F5;
+    border-radius: 4px;
+    }
+
+    input#send
+    {
+    width: 100%;
+    background-color: #6495ED;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    }
+}
+
+@media only screen and (min-device-width: 25rem) 
+  and (max-device-width: 40rem)
+{
+    
+  legend
+    {
+    width: auto;
+    font-size: 2rem;
+    border: 1px #DDD solid;
+    padding: 15px;
+    background-color: white;
+    }
+
+    fieldset 
+    {
+    width: 85%;
+    background-color: #F5F5F5;
+    border: 1px #DDD solid;
+    }
+    
+    .wrapper 
+    {
+		width: 85%;
+        margin: 1em auto;   
+	}
+
+    .name
+    {
+        width:100%;
+        padding-right: 2px;
+    }
+    
+    .mail
+    {
+        width: 100%;
+        padding-left: 2px;
+    }
+    .message
+    {
+        width: 100%;
+        padding-left: 2px;
+    }
+    
+    input#fname
+    {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    
+    input#email
+    {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    
+    textarea#message 
+    {
+    width: 100%;
+    padding: 0px 0px;
+    box-sizing: border-box;
+    border: 1px solid #F5F5F5;
+    border-radius: 4px;
+    }
+
+    input#send
+    {
+    width: 18%;
+    background-color: #6495ED;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    }   
+}
+@media only screen and (min-device-width: 25rem) 
+  and (max-device-width: 40rem)
+{
+    
+  legend
+    {
+    width: auto;
+    font-size: 2rem;
+    border: 1px #DDD solid;
+    padding: 15px;
+    background-color: white;
+    }
+
+    fieldset 
+    {
+    width: 95%;
+    background-color: #F5F5F5;
+    border: 1px #DDD solid;
+    }
+    
+    .wrapper 
+    {
+		width: 95%;
+        margin: 1em auto;   
+	}
+
+    .name
+    {
+        width:100%;
+        padding-right: 2px;
+    }
+    
+    .mail
+    {
+        width: 100%;
+        padding-left: 2px;
+    }
+    .message
+    {
+        width: 100%;
+        padding-left: 2px;
+    }
+    
+    input#fname
+    {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    
+    input#email
+    {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    
+    textarea#message 
+    {
+    width: 100%;
+    padding: 0px 0px;
+    box-sizing: border-box;
+    border: 1px solid #F5F5F5;
+    border-radius: 4px;
+    }
+
+    input#send
+    {
+    width: 10%;
+    background-color: #6495ED;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    }   
+}
